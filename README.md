@@ -27,7 +27,6 @@ This is the prerequisite and installation of the open-source help desk ticketing
 - MySQL
 - Heidi SQL
 - osTicket v1.15.8
-- Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
 <h2>Installation Steps</h2>
